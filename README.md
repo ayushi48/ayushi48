@@ -50,13 +50,12 @@ Alongside development, I actively practice **Data Structures & Algorithms**, sol
 
 
 
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
@@ -66,12 +65,12 @@ Alongside development, I actively practice **Data Structures & Algorithms**, sol
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
+![React%20Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![REST%20API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
@@ -79,12 +78,20 @@ Alongside development, I actively practice **Data Structures & Algorithms**, sol
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![ChakraUI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea)
+
+![Adobe%20Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Adobe%20Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom)
+![Adobe%20Premiere%20Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
+
 
 ---
