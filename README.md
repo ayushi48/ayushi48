@@ -162,9 +162,9 @@ Alongside development, I actively practice **Data Structures & Algorithms**, sol
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router" />
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform" />
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+<!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" /> -->
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js" />
+<!-- <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js" /> -->
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
 
 </div>
