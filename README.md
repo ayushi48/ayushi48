@@ -63,7 +63,7 @@ My interest in programming grew from a curiosity about how systems work and evol
 
 | Institute | Degree | Score | Duration |
 |:--|:--|:--|:--|
-| **Birla Institute of Technology, Mesra** | B.Tech, Electronics & Communication Engineering | CGPA: 8.58 | Expected May 2027 |
+| **Birla Institute of Technology, Mesra** | B.Tech, Electronics & Communication Engineering | CGPA: 8.63 | Expected May 2027 |
 | **Sharda Global School** | Class 12 (CBSE) | 92.8% | May 2022 |
 
 ---
@@ -191,7 +191,7 @@ Alongside development, I actively practice **Data Structures & Algorithms**, sol
 <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui" />
 <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui" />
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" /> -->
 
 </div>
 
