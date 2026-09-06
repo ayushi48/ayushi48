@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Third-Year+ECE+Student+%40+BIT+Mesra;MERN+Stack+Developer;Building+Scalable+%26+Efficient+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Final-Year+ECE+Student+%40+BIT+Mesra;MERN+Stack+Developer;Building+Scalable+%26+Efficient+Web+Apps" alt="Typing SVG" />
 
 <br/><br/>
 
